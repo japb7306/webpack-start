@@ -1,0 +1,10 @@
+html,
+body {
+    magin: 0;
+    background-color: lightcyan;
+    padding: 0;
+}
+
+img {
+    width: 150px;
+}
